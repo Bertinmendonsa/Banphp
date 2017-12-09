@@ -1,0 +1,23 @@
+<p class="mb-20 color-mid paragraph txtJustify" id="fsize">Bangalore Nethralaya is one of the leading super speciality eye care hospital based in Bangalore.  With the vision to serve the society and cater to needs of people from all walks of life, Bangalore Nethralaya was started in the year 2007. Since last 10yrs, the organisation has grown to two branches in Bangalore and has plans to expand.
+                            <br><br>Bangalore Nethralaya is the brain child of Dr. N. Veerabhadra Rao and Dr. Sharada P. Rao. Both of them believe that scenario of the blindness both locally and internationally can be addressed in much more efficient and effective manner. Keeping the vision of serving the society at a larger level, Bangalore Nethralaya aims at following aspects.
+                                <br><br>
+1.	End to end eye care solution to entire mankind.<br>
+2.	Ethical practise coupled with highly specialised expertise.<br>
+3.	Simple and cost effective service for everyone.<br>
+4.	Usage of world class technology to offer best eye care treatment.<br>
+5.	Building next generation “Eye care professionals”.<br>
+6.	Nurture the concept of Centre of Excellence (COE) in ophthalmology by institutionalising best in class solutions.
+</p>
+                            
+							
+<h3 class="mb-15 color-theme">Key Differentiators</h3>
+<p class="mb-20 color-mid paragraph" id="fsize1">
+1.	Qualitative treatment with high service orientation.<br>
+							2.	Patient Centric Approach.<br>
+							3.	High satisfaction level of patients.<br>
+							4.	Has unique blend of community service orientation despite of being a private organisation.<br>
+							5.	Able to understand sensibilities and sensitivities of rural India.<br>
+							6.	Focused team of experts catering to people from remote locations.<br>
+							7.	Spreading constant positive message about eye care.<br>
+							</p>
+                            <p id="chairman"></p>

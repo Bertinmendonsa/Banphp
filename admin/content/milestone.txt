@@ -1,0 +1,177 @@
+  <div> <ul>
+            <li>
+                <div class="timeline-panel">
+                    <div class="timeline-heading">
+                        <h3 class="subheading">2007</h3>
+                    </div>
+            <div class="timeline-body">
+                  <ul class="text-muted tc">
+                        <li>Started by Dr. N Veerabhadra Rao, Vitreo-Retinal Surgeon and Dr. P. Sharada Rao, a Glaucoma &amp; Refractive Surgeon.</li>
+                        <li>Major Motto “THE BEST EYE CARE TO MANKIND”.</li>
+                        <li>Started with 2 Bed hospital in Banashankari II Stage, Bangalore.</li>
+                        <li>FFA, Green Lasers &amp; Operation Theatre equipped with Phaco &amp; Vitrectomy Machine.</li>
+                        <li>Started Sharada Optical wing in the same premises.</li>
+                        <li>Inaugurated by then Honorable Union Minister Sri M. V. Rajashekharan, Dr. Kim Ramasamy(Retina Chief at Aravind Eye Hospital, Madurai) and Dr. Usha Kim(Chief, Orbit &amp; Oculoplasty at Aravind Eye Hospital, Madurai)</li>
+                </ul>
+            </div>
+          </div>
+            </li>
+        <li><div class="timeline-panel">
+            <div class="timeline-heading">
+              
+              <h3 class="subheading">2008</h3>
+            </div>
+            <div class="timeline-body">
+              <ul class="text-muted tc">
+              <li> Always right purpose gets multifolded. Same thing was observed in Bangalore Nethralaya.</li>
+                <li>Footfall of out-patients increased from 10 to 20 per day.</li>
+                  <li>This further fostered belief system of Bangalore Nethralaya those Patients turned out be Guests in turn part of Bangalore Nethralaya family. With respect to statistics, surgical patients count increased to around 30 per month.</li>
+                  <li>Exceptionally good feedback from the patients and surgical outcome further motivated the cause for which Bangalore Nethralaya was started and effort was made to get buy high end machines useful for surgery.</li>
+
+              </ul>
+            </div>
+          </div>
+        </li>
+        <li>
+            <div class="timeline-panel mt-15p mt-5p">
+            <div class="timeline-heading">
+              
+              <h3 class="subheading">2009</h3>
+            </div>
+            <div class="timeline-body">
+              <ul class="text-muted tc">
+                  <li>Started the ground work to provide the best in class infrastructure to patients.</li>
+                  <li>Phacoequipment was upgraded to Sovereign Compact Phacoemulsification system with ICE technology from AMO(USA).</li>
+                  <li>Hired efficient people to take the journey to next step.</li>
+                  <li> Simultaneously focused on building capabilities both at clinical and administrative level.</li>
+
+              </ul>
+            </div>
+          </div>
+        </li>
+        <li>
+                
+        </li>
+        <li><div class="timeline-panel">
+            <div class="timeline-heading">
+              
+              <h3 class="subheading">2010</h3>
+            </div>
+            <div class="timeline-body">
+              <ul class="text-muted tc">
+                <li>One of the major milestone was achieved this year.</li>
+                  <li>Adjacent to existing hospital, new infrastructure was built in a rented place to offer better services.</li>
+                  <li>Infrastructure: 3 Storeyed building with 10000 Sq. ft working area, consisting of 2 spacious well-furnished waiting lobbies, 4 consultation rooms, 3 spacious operation theatres with investigation rooms.</li>
+                <li>Upgraded with newer &amp; best equipments like, SPECTRAL DOMAIN SLO OCT with MICRO PERIMETRY with CORNEAL TOPOGRAPHY, and OTI Ultrasound B-Scan with UBM.</li>
+                   <li>This new facility was inaugurated by<strong> Padmashri Dr. P. Namperumalsamy,</strong> Chairman of Aravind Eye Care System &amp; The FIRST VITREO RETINAL SURGEON of India, A great visionary, mentor and Guru to the Founders of Bangalore Nethralaya.</li>
+                   <li>Multiple aforesaid facilities were inaugurated by then Honourable Ministers of Government of Karnataka Sri R. Ashok (Deputy Chief Minister), Sri Ramachandra Gowda, Sri Katta Subramanyam Naidu, Sri M V Rajashekaran, Sri Raghuveera Reddy(Honourable Minister of Andhra Pradesh), &amp; Sri M R Doreswamy Naidu (MLC &amp; Chancellor of PES University, Bangalore).</li>
+                   <li>Partnered with globally recognized optical brands to offer customized optical services at Sharada Opticals with separate wing.</li>
+                </ul>
+               
+                
+            </div>
+          </div>
+        </li>
+        <li>
+            <div class="timeline-panel">
+            <div class="timeline-heading">
+              
+              <h3 class="subheading">2011</h3>
+            </div>
+           <div class="timeline-body">
+              <ul class="text-muted tc">
+                  <li>Upgraded the hospital for the latest refractive procedures with latest technology:</li>
+                  <ul class="mile3">
+                  <li>VISX STAR S4 IR iLASIK  excimer laser from AMO.</li>
+                  <li>ZIEMER’S AMADEUS II Advanced Microkeratome.</li>
+                  <li>TOMEY’S TMS 4 Corneal Topography and Pachymetry.</li>
+                  </ul>
+              </ul>
+            </div>
+          </div>
+        </li>
+        <li>
+            <div class="timeline-panel mt-20p">
+            <div class="timeline-heading">
+
+              <h3 class="subheading">2012</h3>
+            </div>
+           <div class="timeline-body">
+              <ul class="text-muted tc">
+                  <li>Established all the sub-specialities of Ophthalmology.</li>
+                  
+              </ul>
+            </div>
+          </div>
+        </li>
+        <li>
+            <div class="timeline-panel mt-30p">
+            <div class="timeline-heading">
+
+              <h3 class="subheading">2013</h3>
+            </div>
+            <div class="timeline-body">
+              <ul class="text-muted tc">
+                  <li>Retina department was upgraded with ALCON’s Constellation Vision System for latest MIVS vitrectomy &amp; MICS cataract surgical procedures. </li>
+                  
+              </ul>
+            </div>
+          </div>
+        </li>
+        <li> <div class="timeline-panel mt-25p">
+            <div class="timeline-heading">
+
+              <h3 class="subheading">2014</h3>
+            </div>
+            <div class="timeline-body">
+              <ul class="text-muted tc">
+              <li> Started Chandra Layout Branch.</li>
+                
+              </ul>
+            </div>
+          </div>
+        </li>
+        <li>
+             <div class="timeline-panel mt-25p" id="mile2">
+            <div class="timeline-heading">
+
+              <h3 class="subheading">2015</h3>
+            </div>
+            <div class="timeline-body">
+              <ul class="text-muted tc">
+                  <li>Started Kalyan Nagar Branch.</li>
+                  
+              </ul>
+            </div>
+          </div>
+        </li>
+        <li>
+             <div class="timeline-panel mt-25p">
+            <div class="timeline-heading">
+
+              <h3 class="subheading">2016</h3>
+            </div>
+           <div class="timeline-body">
+              <ul class="text-muted tc">
+                  <li>SIRIUS Topography was bought.</li>
+                  
+              </ul>
+            </div>
+          </div>
+        </li>
+        <li>
+            <div class="timeline-panel mt-30p mt-6p">
+            <div class="timeline-heading">
+
+              <h3 class="subheading">2017</h3>
+            </div>
+            <div class="timeline-body">
+              <ul class="text-muted tc">
+                  <li>Started Mobile Eye Clinic wing.</li>
+                  
+              </ul>
+            </div>
+          </div>
+        </li>
+        </ul>
+</div>
