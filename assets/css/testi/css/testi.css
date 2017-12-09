@@ -1,0 +1,16 @@
+.testi1{
+    font-family: 'libre baskerville','playfair display','georgia','serif'; 
+    font-size: 60px;
+    font-weight: 600;
+    line-height: 4.688rem; 
+    margin-top: 80px;
+}
+.testi2{
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 26px;
+}
+.video
+{
+    height: 200px;
+}

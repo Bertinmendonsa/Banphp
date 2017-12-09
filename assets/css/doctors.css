@@ -1,0 +1,56 @@
+.dropdown-submenu
+{
+	position: relative;
+}	
+.dropdown-submenu .dropdown-menu
+{
+	top: 0;
+	left:100%;
+	margin-top: -1px;
+}
+.dropdown-content a:hover
+{
+	background-color: #107fc9;
+}
+		
+
+.dropdown1:hover .dropdown-content {
+    display: block;
+}
+
+#mainContent
+{
+	padding-top: 10em;
+	height:500%;
+}
+#view1
+{
+	height:500px;
+}
+#view2 .photo
+{
+	margin-top:85px;
+	
+}
+#view2 > .navalign > .spl
+{
+	float:right;
+}
+  #view1 .photo1
+{
+	
+	width: 280px
+} 
+
+
+/* management team  and adminstrative team members*/
+#view1 .photo
+{
+	margin-top:0px;
+	
+}
+
+#view1 > .navalign > .spl
+{
+	float:right;
+}
